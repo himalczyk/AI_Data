@@ -1,0 +1,154 @@
+input,output
+add a member to a meeting,invite_to_meeting
+add a member to the meeting,invite_to_meeting
+add member to meeting,invite_to_meeting
+add member to teams call,invite_to_meeting
+add members to meeting,invite_to_meeting
+add members to teams call,invite_to_meeting
+add person meeting,invite_to_meeting
+add person to call,invite_to_meeting
+add person to teams call,invite_to_meeting
+add the member to a meeting,invite_to_meeting
+add the member to the meeting,invite_to_meeting
+can not join meeting,cannot_join
+can not join meetings,cannot_join
+can not join to meeting,cannot_join
+can't attent meetings,cannot_join
+can't chat,cannot_chat
+can't join meeting,cannot_join
+can't join meetings,cannot_join
+cannot attend meeting,cannot_join
+cannot chat,cannot_chat
+cannot join meeting,cannot_join
+cannot join the meeting,cannot_join
+cannot join the teams meeting,cannot_join
+cannot joing an meiten,cannot_join
+cannot joing meeting,cannot_join
+canoot chat,cannot_chat
+cant chat,cannot_chat
+cant join meeting,cannot_join
+cant see conversations,conversation
+cant type in chat,cannot_chat
+cantjoing meeting,cannot_join
+ch at doesnt work,cannot_chat
+chat disable,cannot_chat
+chat disabled in meeting,cannot_chat
+chat in doesnt work,cannot_chat
+chat is not displaying,conversation
+chat is not visible,conversation
+chat is not working,cannot_chat
+chat is not works,cannot_chat
+chat isn't displayed ,conversation
+chat isn't displaying,conversation
+chat isn't visible,conversation
+chat isn't work,cannot_chat
+chat isnt displayed ,conversation
+chat isnt displaying,conversation
+chat isnt visible,conversation
+chat issue,cannot_chat
+chat window disabled,cannot_chat
+chat window grayed out,cannot_chat
+chats not available,cannot_chat
+chats not works,cannot_chat
+chatting does not work,cannot_chat
+chatting is not possible,cannot_chat
+chatting not possible,cannot_chat
+cnt chat,cannot_chat
+conrstatstions not shown,conversation
+conv ersation,conversation
+conv not shows,conversation
+conv not,conversation
+converastion not visible,conversation
+conversation is missing,conversation
+conversation is not displayed ,conversation
+conversation is not displaying,conversation
+conversation is not visible,conversation
+conversation isn here,conversation
+conversation isn't displayed ,conversation
+conversation isn't displaying,conversation
+conversation isnt displayed ,conversation
+conversation isnt displaying,conversation
+conversation isnt there,conversation
+conversation not showing,conversation
+conversation not,conversation
+conversations are not showing,conversation
+converstation not show,conversation
+disabled chat,cannot_chat
+display chat,conversation
+display conversation,conversation
+display message,conversation
+display messages,conversation
+i am not able to joing emetings,cannot_join
+i cannot join meeting,cannot_join
+in meeting invite,invite_to_meeting
+input,output
+inv in business call,invite_to_meeting
+inv in conference call,invite_to_meeting
+inv in meeting,invite_to_meeting
+inv ite in meting,invite_to_meeting
+inv ite,invite_to_meeting
+inv meet,invite_to_meeting
+inv meetings,invite_to_meeting
+invitation to other people,invite_to_meeting
+invite during busines call,invite_to_meeting
+invite during converence call,invite_to_meeting
+invite during meet,invite_to_meeting
+invite during meeting,invite_to_meeting
+invite in between meeting,invite_to_meeting
+invite in call,invite_to_meeting
+invite in conference call,invite_to_meeting
+invite in meeting,invite_to_meeting
+invite meeting,invite_to_meeting
+invite people during ,invite_to_meeting
+invite people during a meeting,invite_to_meeting
+invite person during ,invite_to_meeting
+invite person to,invite_to_meeting
+invite someone to call,invite_to_meeting
+invite withing meeting,invite_to_meeting
+invitine in meeting,invite_to_meeting
+inviting during meeting,invite_to_meeting
+join meeting but its not possible,cannot_join
+join meeting is not working,cannot_join
+join meeting isnt working,cannot_join
+join meeting,cannot_join
+join meetings but its not possible,cannot_join
+join meetings but its not working,cannot_join
+join meetings doesnt work,cannot_join
+join ms teams meeting,cannot_join
+join teams meeting,cannot_join
+join the teams meeting,cannot_join
+joinign meteings isnt working,cannot_join
+joining meeting impossible,cannot_join
+joining meeting is not working,cannot_join
+joining meetings doesnt work,cannot_join
+joining meetings is impossible,cannot_join
+joining meetings isn't working,cannot_join
+joining meetings isnt working,cannot_join
+joining meetings not possible,cannot_join
+joining to a meeting is not possible,cannot_join
+kannot,cannot_chat
+kant chat,cannot_chat
+last conv not there,conversation
+last conversation not there,conversation
+latest conversation is not showing,conversation
+message in meeting,cannot_chat
+message in teams meeting,cannot_chat
+messages are missing,conversation
+messages are not displayed ,conversation
+messages are not visible,conversation
+messages aren't displayed ,conversation
+messages aren't visible,conversation
+messages arent displayed ,conversation
+messages arent visible,conversation
+messages in ms teams meeting,cannot_chat
+messages in teams meeting,cannot_chat
+missing messages,conversation
+not able to join meeting,cannot_join
+not have conversation,cannot_join
+not possible to join meeting,cannot_join
+send message in meeting,cannot_chat
+eeting,cannot_join
+conversation isn here,conversation
+joining meetings not possible,cannot_join
+join meeting isnt working,cannot_join
+cannot attend meeting,cannot_join
